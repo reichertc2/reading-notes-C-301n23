@@ -5,7 +5,8 @@
 This is the basic means of learning. The mini repository for the notes I will take from the readings throughout the course. Super **excited**. Just as a side note, I will be periodically adding updates throughout the course.
 
 ### Table of Contents
-1. [Class One](class-01.md) - HTML5 & JS
+
+1. [Class One](class-01.md) - Intro to React and Components
 <!-- 1. [Class Two](class-02.md) - HTML, CSS, JS Basics
 1. [Class Three](class-03.md) - CSS Boxes, Lists, Arrays, Loops, and Decisions 
 1. [Class Four](class-04.md) - Links, Layout, Functions, Methods, and Objects with Pair Programming
