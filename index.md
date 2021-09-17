@@ -7,6 +7,7 @@ This is the basic means of learning. The mini repository for the notes I will ta
 ### Table of Contents
 
 1. [Class One](class-01.md) - Intro to React and Components
+
 <!-- 1. [Class Two](class-02.md) - HTML, CSS, JS Basics
 1. [Class Three](class-03.md) - CSS Boxes, Lists, Arrays, Loops, and Decisions 
 1. [Class Four](class-04.md) - Links, Layout, Functions, Methods, and Objects with Pair Programming
@@ -22,11 +23,13 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Fourteen A/B](class-14.md) - Google Lessons and CSS Tips and Tricks -->
 
 ## Reminders
+
 1. Skills are developed overtime and take practice.
 1. When you get stuck and frustrated. Take a minute or two away from it and come back to it with fresh eyes. Ask for help!!
 1. Growth never ends or stops. Well until we die.  
 
 #### Books Referenced in Text
+
 <!-- The two books used for the readings are:
 * HTML & CSS by Jon Duckett
 * Javascript & JQuery by John Duckett -->
