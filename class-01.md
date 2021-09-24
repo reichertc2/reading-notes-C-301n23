@@ -1,4 +1,4 @@
-# Code 301 Reading Notes
+# Code 301 - Intermediate Software Development
 
 ## Class 01 - Intro to React and Components
 
