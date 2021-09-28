@@ -4,7 +4,7 @@
 
 Block intro
 
-> Real genius is nothing else but supernatural virtue of humility in the domain of thought  - Simone Weil
+> Life is either a daring adventure or nothing at all - Helen Keller
 
 ### React Lifecycle ([Article](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm))
 

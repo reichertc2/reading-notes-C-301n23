@@ -8,10 +8,10 @@ This is the basic means of learning. The mini repository for the notes I will ta
 
 1. [Class One](class-01.md) - Intro to React and Components
 1. [Class Two](class-02.md) - State and Props
+1. [Class Three](class-03.md) - Passing Functions as Props
+1. [Class Four](class-04.md) - React and Forms
 
- <!-- 1. [Class Three](class-03.md) - CSS Boxes, Lists, Arrays, Loops, and Decisions 
-1. [Class Four](class-04.md) - Links, Layout, Functions, Methods, and Objects with Pair Programming
-1. [Class Five](class-05.md) - Images, Color, Text, and More Images
+ <!-- 1. [Class Five](class-05.md) - Images, Color, Text, and More Images
 1. [Class Six](class-06.md) - Problem Domain, Object Literals, and the DOM
 1. [Class Seven](class-07.md) - Domain Modeling, Tables, Functions, Methods, Objects
 1. [Class Eight](class-08.md) - Layout (Revisited)
