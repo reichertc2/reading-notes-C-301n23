@@ -4,7 +4,7 @@
 
 Block intro
 
-> I love it when a plan comes together - John "Hannibal" Smith
+> You join a gang for protection, not to go out and hit someone. - Sir Michael Caine
 
 ### An intro to Node.js on sitepoint.com ([Article](https://www.sitepoint.com/an-introduction-to-node-js/))
 

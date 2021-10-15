@@ -4,7 +4,7 @@
 
 Block intro
 
-> I love it when a plan comes together - John "Hannibal" Smith
+> Do or Do not. There is no try. - Yoda
 
 ### API Design Best Practices ([Article](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design))
 
