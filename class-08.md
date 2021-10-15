@@ -1,6 +1,6 @@
 # Code 301 - Intermediate Software Development
 
-## Class 06 - Node.js
+## Class 08 - APIs
 
 Block intro
 
@@ -39,6 +39,6 @@ DELETE: 204-No content 404-not found
 
 ### Things I want to know more about
 
-* 
+* I want to know more about caches/lists of APIs 
 
 Go [Home](index.md)
