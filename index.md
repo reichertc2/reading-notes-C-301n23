@@ -15,9 +15,9 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Seven](class-07.md) - REST
 1. [Class Eight](class-08.md) - APIs
 1. [Class Nine](class-09.md) - Functional Programming
+1. [Class Ten](class-10.md) - In memory storage
 
- <!-- 1. [Class Ten](class-10.md) - Debugging
-1. [Class Eleven](class-11.md) - Images, Practical Information, and Flash
+ <!-- 1. [Class Eleven](class-11.md) - Images, Practical Information, and Flash
 1. [Class Twelve](class-12.md) - Chart.js and ```<canvas>```
 1. [Class Thirteen](class-13.md) - Persistent Storage
 1. [Class Fourteen A/B](class-14.md) - Google Lessons and CSS Tips and Tricks  -->
