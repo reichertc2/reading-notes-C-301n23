@@ -34,12 +34,6 @@ Type errors occur when the types of variables or objects are incompatible. ('Str
 A breakpoint is a location in the code that the app ceases to run and hits an error in a debugger.
 A debugger takes you through line by line to look for breakpoints in your code.
 
-### Skim Articles
- 
- 1. ([Geocoding API Docs](https://locationiq.com/docs))
- 1. ([Axios Docs](https://www.npmjs.com/package/axios))
- 1. ([MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await))
-
 ### Things I want to know more about
 
 * 
