@@ -18,9 +18,9 @@ This is the basic means of learning. The mini repository for the notes I will ta
 1. [Class Ten](class-10.md) - In memory storage
 1. [Class Eleven](class-11.md) - Mongo and Mongoose
 1. [Class Twelve](class-12.md) - CRUD
+1. [Class Thirteen](class-13.md) - Diversity & Inclusion in the Tech Industry
  
- <!-- 1. [Class Thirteen](class-13.md) - Persistent Storage
-1. [Class Fourteen A/B](class-14.md) - Google Lessons and CSS Tips and Tricks  -->
+ <!-- 1. [Class Fourteen A/B](class-14.md) - Google Lessons and CSS Tips and Tricks  -->
 
 ## Reminders
 
